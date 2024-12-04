@@ -17,7 +17,7 @@ O **Stock Price AI Assistant** utiliza a biblioteca **Pydantic AI** para configu
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu_usuario/stock-price-ai-assistant.git
+    git clone https://github.com/mfnogueira/PydanticAgent.git
     cd stock-price-ai-assistant
     ```
 
